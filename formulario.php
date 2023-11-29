@@ -123,7 +123,7 @@
     </style>
 </head>
 <body>
-        <a href="home.php">Voltar</a>
+        <a href="home.html">Voltar</a>
         <br><br>
         <a href="https://www.4devs.com.br/gerador_de_pessoas" rel="next" target="_blank">Gerador de Pessoas (Link Externo)</a>
     <div class="box">
